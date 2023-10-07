@@ -1,0 +1,177 @@
+body
+{background-color: whitesmoke;}
+.main
+{width: 1024;
+
+}
+.start
+{
+    background-color: grey;
+}
+
+#logo
+{
+    size: 0%;
+}
+.textosimple
+{
+text-transform: uppercase;
+    display: auto;
+    color: black;
+    display: flexbox;
+    padding-top: 1%;
+}
+#textsimple1
+{
+    text-align: center;
+    display: auto;
+    color: whitesmoke;
+    display: flexbox;
+    padding-top: 2vm;
+}
+
+hr
+{border-style: none;
+    margin: -1px;
+}
+
+#deckimg
+{
+    width: 60%;
+    height: 15vw;
+    object-fit: cover;
+    align-self: center;
+}
+.textil
+{ font-weight: 500;
+    font-size: large;
+    text-align: center;
+    color: white;
+    white-space:pre-line;
+
+    
+}
+.asedeje
+{ color: black;
+
+    float: right;
+    flex-direction: colum;
+    margin-top: -30;
+}
+.spacio
+{flex: auto;
+    margin-right: 2%;
+    margin-left:2%;
+margin-bottom: 3%;
+}
+.textis1
+{background-color:darkgray;
+flex: auto;
+align-items: flex-end;
+;
+}
+.borderland
+{
+    border-style: none;
+    margin-left: 55%;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 7%;
+}
+.Ubicacion
+{
+    width: 100%;
+height: 500px;
+    background-color:darkgray;
+    flex: auto;
+    flex-direction: column;
+    align-content: flex-start;
+    flex-wrap: nowrap;
+    
+}
+.map
+{
+    width: 50%;
+    float: left
+;
+}
+.textos
+{
+width: 50%;
+color: blue;
+text-overflow: clip;
+float: right;
+text-align: start;
+
+}
+.formo
+{
+    display: flex;
+    margin: 0 auto;
+    color: blue;
+    width: 70%;
+    margin: 0 auto;
+}
+.formo1
+{color: blue;
+text-align: center;
+flex: auto;
+margin-right: 3%;
+width: 30%;
+border-style: solid;
+border-width: 1;
+border-radius: 2%;
+padding: 3px;
+font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.formo2
+
+{color: blue;
+text-align: center;
+margin-left: 3%;
+width: 30%;
+flex: auto;
+padding: 3px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.coment
+
+{
+flex: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.enviado {background-color: #008CBA;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+border-style: none;
+border-radius: 1%;}
+
+
+footer
+{
+    background-color: grey;
+    height: 10%;
+    margin-top: 2%;
+}
+.fot
+
+
+ {
+    overflow:auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    list-style-type: none;
+    display:flex;
+    justify-content: space-between;
+}
+.luli
+{
+    margin-top: 2%;
+    text-align: center;
+}
+
+.tessto
+{text-align: center;
+    color: black;
+}
